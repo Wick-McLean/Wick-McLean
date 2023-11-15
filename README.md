@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Wick-McLean
-- 👀 I’m interested in 3d printing, assembly language, design, augmented reality. 
+- 👀 I’m interested in 3d printing, electrical engineering, design, augmented reality. 
 - 🌱 I’m currently learning assembly language. 
-- 💞️ I’m looking to collaborate on design, augmented reality. 
+- 💞️ I’m looking to collaborate on design, EE, AR. 
 - 📫 How to reach me ...
 
 <!---
